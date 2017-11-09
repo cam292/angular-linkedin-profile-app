@@ -1,8 +1,8 @@
 # angular-linkedin-profile-app
 A web application that utilizes AngularJS in order to authenticate with linkedIn and show a user's profile. Node.js must be installed in order to use
-
+TESTING
 #Set up
-In order to use, you need to have a valid API key from linkedIn by registering your application with them, then supply a valid SDK domain in order to use linkedIn's JavaScript SDK for authentication.  The API key you recieve can be placed in index.html under the commented section "Init linkedIn's JavaScript SDK." 
+In order to use, you need to have a valid API key from linkedIn by registering your application with them, then supply a valid SDK domain in order to use linkedIn's JavaScript SDK for authentication.  The API key you recieve can be placed in index.html under the commented section "Init linkedIn's JavaScript SDK."
 
 #Installation
 To launch:  
